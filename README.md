@@ -8,6 +8,7 @@ The application continuously scans for MIFARE cards or keyfobs. Once a tag is de
 ### Hardware Used
 * **Microcontroller:** NUCLEO-G071RB (STM32G0 series)
 * **RFID Module:** MFRC522 (13.56 MHz)
-| NUCLEO-G071RB Setup | MFRC522 Connection |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/1a102f2f-a9b8-49c5-8360-0b1083e7be74" width="400" /> | <img src="https://github.com/user-attachments/assets/857f954b-f846-4b79-867a-09bfb75f8cb7" width="400" /> |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a102f2f-a9b8-49c5-8360-0b1083e7be74" width="45%" />
+  <img src="https://github.com/user-attachments/assets/857f954b-f846-4b79-867a-09bfb75f8cb7" width="45%" />
+</p>
